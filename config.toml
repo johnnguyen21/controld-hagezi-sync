@@ -45,7 +45,6 @@ names = ["Dad", "Mom", "Home", "Home-2"]
 
 [profile_folders]
 Dad    = [
-  "MS Tracker Allow",
   "Native Tracker Amazon",
   "Native Tracker Apple",
   "Native Tracker Huawei",
